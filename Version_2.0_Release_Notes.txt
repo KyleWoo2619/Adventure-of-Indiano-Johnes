@@ -1,0 +1,24 @@
+Game Project:~Adventure of Mr. Indiano Johnes ~
+Creator: Kyle Woo
+Version: 1.2 -> 2.0
+Date: 01/19/2025
+
+
+New features:
+3rd room is added
+Added variations of Grails. Correct and Incorrect choices now exists.
+Multiple endings to add more discovery.
+﻿
+Fixes
+Some tiles not coded properly as walls > fixed
+﻿
+Improvements (of existing features)
+Tile textures were updated. There are now 30 different tile variations to create better aesthetics.
+Added more characters and updated their dialogues to add more narrative
+
+
+
+
+Known Bugs
+Gate entrance tiles disappear when players step on them. 
+Purposely left it that way as turning them into walls will hinder players to interact with exit & endings.
